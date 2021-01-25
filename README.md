@@ -13,3 +13,5 @@ java -jar ascii-art.jar
 2. Use the printed usage information to modify program parameters.
 
 ## Images
+
+![Demo](images/demo.png)
