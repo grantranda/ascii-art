@@ -15,3 +15,4 @@ java -jar ascii-art.jar
 ## Images
 
 ![Demo](images/demo.png)
+![Demo 1](images/demo1.png)
